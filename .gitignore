@@ -1,2 +1,10 @@
 *.qlog
 *.sqlog
+*.pem
+*.key
+*.crt
+*.csr
+*.pfx
+*.p12
+*.der
+*.cer
