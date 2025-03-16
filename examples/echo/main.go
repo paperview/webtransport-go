@@ -10,9 +10,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/paperview/webtransport-go"
 	"github.com/quic-go/quic-go"
 	"github.com/quic-go/quic-go/http3"
-	"github.com/quic-go/webtransport-go"
 )
 
 func main() {
